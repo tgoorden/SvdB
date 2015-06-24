@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% include jumbotron.html %}
+
+{% for post in site.posts %}
+<section>
+{{ post.content }}
+</section>
+{% endfor %}

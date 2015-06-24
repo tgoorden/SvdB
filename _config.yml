@@ -1,0 +1,15 @@
+# Site settings
+title: Staat van de Burger
+slug: Doe- & Denkconferentie
+email: info@staatvandeburger.be
+description: > # this means to ignore newlines until "baseurl:"
+   Staat van de Burger is een doe- en denkconferentie rond burgerinitiatieven.
+   Luister naar de ervaringen van Ringland, NewB, Klimaatzaak, etc.
+   Word geïnspireerd! 
+facebook-url: https://www.facebook.com/events/104838686525414/ 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.staatvandeburger.be" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+exclude: ['s3_website.yml']
