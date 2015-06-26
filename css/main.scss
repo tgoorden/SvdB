@@ -44,6 +44,17 @@ $on-laptop:        800px;
     }
 }
 
+@mixin mobile {
+   @media screen and (max-width: $on-palm) {
+      @content;
+   }
+}
+
+@mixin full-screen {
+   @media screen and (min-width: $on-palm) {
+      @content;
+   }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

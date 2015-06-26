@@ -1,3 +1,6 @@
+---
+published: false
+---
 Partijpolitiek lijkt op sterven na dood. Is er een alternatief?
 
 Wanneer het al te spaak loopt, wordt de burger wakker en laat van zich horen. Dat bewijzen allerhande burgerbewegingen, groot en klein, die positieve alternatieven zoeken voor onze samenleving en het heft in eigen handen nemen. Hun succes toont aan dat het kan.
