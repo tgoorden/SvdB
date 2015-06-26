@@ -1,11 +1,10 @@
 #Persbericht: De staat van de burger
-Partijpolitiek lijkt op sterven na dood. Is er een alternatief?
 
-Wanneer het al te spaak loopt, wordt de burger wakker en laat van zich horen. Dat bewijzen allerhande burgerbewegingen, groot en klein, die positieve alternatieven zoeken voor onze samenleving en het heft in eigen handen nemen. Hun succes toont aan dat het kan.
+De kloof tussen staat en burger lijkt groter dan ooit. Wakkere burgers laten overal in het land van zich horen. Allerhande burgerbewegingen, groot en klein, die positieve alternatieven zoeken voor onze samenleving nemen het heft in eigen handen. Hun succes toont aan dat het kan. Maar de samenwerking tussen burger en staat blijkt in de praktijk nog steeds heel erg moeilijk. 
 
-Maar hoe werkt dat zo een burgerbeweging? Wat zijn de verhoudingen onderling, tussen politiek en tussen dagelijks bestuur? Wat kan zo een beweging betekenen? Hoe kunnen burgerbewegingen schijnbare maatschappelijke patstellingen deblokkeren? Hoe creëer je (positieve) impact? Hoe geef je vorm en inhoud aan samenwerking los van politieke kleur? Hoe betrek je mensen en creëer je een breed draagvlak? Hoe zetten we samen stappen richting betekenisvolle beleidsparticipatie?
+Hoe maak je van een burgerbeweging een succes? Hoe kunnen burgerbewegingen schijnbare maatschappelijke patstellingen deblokkeren? Hoe creëer je (positieve) impact? En hoe boek je succes in de samenwerking met en de verhouding tot de publieke diensten? Hoe zetten we samen stappen richting betekenisvolle beleidsparticipatie? Hoe kan een burgerinitiatief uitgroeien tot een onderdeel van beleidsvorming? 
 
-De Staat van de Burger gaat op zoek naar de antwoorden. Aan de hand van kleine en grote burgerbewegingen voeren we een meanderend onderzoek naar verhouding tussen hen, politiek en bestuur. En naar de kracht die je hebt als individu en wat je ermee kan bereiken. 
+De Staat van de Burger gaat op zoek naar de antwoorden. Aan de hand van kleine en grote burgerbewegingen voeren we een meanderend onderzoek naar verhouding tussen hen, politiek en bestuur. En naar de kracht die je hebt als individu en als groep. En wat je ermee kan bereiken.
 
 ##Wat wordt het concreet?
 * Een stomend, one off evenement voor en door burgers op zondag 20 september in Arenberg, Antwerpen.
