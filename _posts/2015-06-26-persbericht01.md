@@ -9,7 +9,7 @@ De Staat van de Burger gaat op zoek naar de antwoorden. Aan de hand van kleine e
 ##Wat wordt het concreet?
 * Een stomend, one off evenement voor en door burgers op zondag 20 september in Arenberg, Antwerpen.
 * De tijd: 14u00-23u00 (deuren: 13u30)
-* Korte ‘behind the scenes’ presentaties, straffe verhalen en pittige vragenrondes met de pioniers van bekende burgerbewegingen. Reeds bevestigd zijn Wouter Hillaert, Hart boven Hard; Cato Léonard, G1000; Serge de Gheldere, Klimaatzaak; Wietse Vermeulen, Ringland; Dyab Abou Jahjah, Movement X; Jef Van Eyck, De Koep in Turnhout; Mehdi Maréchal, Gentse Lente. In de loop van de zomer volgen nog meer namen. 
+* Korte ‘behind the scenes’ presentaties, straffe verhalen en pittige vragenrondes met de pioniers van bekende burgerbewegingen. Reeds bevestigd zijn Wouter Hillaert, Hart boven Hard; Cato Léonard, G1000; Serge de Gheldere, Klimaatzaak; Wietse Vermeulen, Ringland; Dyab Abou Jahjah, Movement X; Jef Van Eyck, De Koep in Turnhout; Mehdi Maréchal, Gentse Lente; Pieter Deschamps, Lab van Troje. In de loop van de zomer volgen nog meer namen. 
 * Een avondprogramma waarin deelnemers zelf kunnen participeren,  allerhande gesprekken en discussies kunnen aangaan met de aanwezige pioniers en met elkaar, verbindingen kunnen maken, kennis verzamelen, plannen smeden én feesten. Want de huidige staat van de burger mag ook gevierd worden.
 * In aanloop naar 20 september houden we onze armen en oren open voor prangende vragen, hete hersenkronkels en activerende escapades van iedereen die zich betrokken voelt. Liefhebbers kunnen ook gewoon meedoen.
 
